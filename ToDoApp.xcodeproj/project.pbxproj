@@ -10,9 +10,22 @@
 		56FDDBA62F79ADEA00C99C41 /* ToDoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		56FDDBB72F79BA0A00C99C41 /* Exceptions for "ToDoApp" folder in "ToDoApp" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				README_DEV.md,
+			);
+			target = 56FDDBA52F79ADEA00C99C41 /* ToDoApp */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		56FDDBA82F79ADEA00C99C41 /* ToDoApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				56FDDBB72F79BA0A00C99C41 /* Exceptions for "ToDoApp" folder in "ToDoApp" target */,
+			);
 			path = ToDoApp;
 			sourceTree = "<group>";
 		};
