@@ -22,7 +22,8 @@
 - Combine
 
 ## スクリーンショット
-（ここに追加予定）
+<img width="1470" height="956" alt="スクリーンショット 2026-04-05 15 37 43" src="https://github.com/user-attachments/assets/fd5929d5-84c0-4d1f-90a3-cef82eef7aee" />
+
 
 ## 今後の予定
 - 通知機能
